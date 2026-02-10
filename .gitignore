@@ -1,0 +1,15 @@
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Claude配置
+.claude/
+
+# 大型PLY文件（高斯点云模型）
+*.ply
+
+# 其他
+.DS_Store
+*.log
